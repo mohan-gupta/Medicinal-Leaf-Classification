@@ -19,7 +19,7 @@ Dataset Link: [Medicinal Leaf data from Mendeley Data](https://md-datasets-cache
 
 - Used Pre-Trained ResNet50-V2 as base model.
 
-<img src = "https://github.com/mohan-gupta/Medicinal-Leaf-Classification/blob/main/artifacts/ResNet-V2-skip-connection.png"> <br>
+<img src = "https://github.com/mohan-gupta/Medicinal-Leaf-Classification/blob/main/artifacts/ResNet%20V2%20skip%20connection.png"> <br>
 
 - Froze the layers of the base model.
 - Added softmax layer to the base model (trainable layer).
