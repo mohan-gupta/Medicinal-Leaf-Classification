@@ -67,8 +67,8 @@ Dataset Link: [Medicinal Leaf data from Mendeley Data](https://md-datasets-cache
           29       1.00      1.00      1.00         6
 
     accuracy                           0.96       367
-    macro avg       0.97      0.97      0.97       367
-    weighted avg       0.97      0.96      0.96       367
+    macro avg      0.97      0.97      0.97       367
+    weighted avg   0.97      0.96      0.96       367
 
 ### ROC-AUC Curve
 <img src = "artifacts/roc-auc test.png"> <br>
