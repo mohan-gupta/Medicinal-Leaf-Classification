@@ -1,6 +1,5 @@
-<img src = "artifacts/medicinal leaf.gif"> <br>
-
 # Medicinal Leaf Classification
+<img src = "artifacts/medicinal leaf.gif"> <br>
 
 Mother earth is enriched and nourished with a variety of plants. These plants are useful in many ways such as drug formulation, production of herbal products, and medicines to cure many common ailments and diseases. For the past 5000 years, Ayurveda, a traditional Indian medicinal system is widely accepted even today. India is a rich country for being the habitat for a variety of medicinal plants. Many parts of the plants such as leaves, bark, root, seeds, fruits, and many more are used as a vital ingredient for the production of herbal medicines.
 # Objective
